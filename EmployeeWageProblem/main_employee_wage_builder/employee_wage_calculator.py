@@ -1,5 +1,5 @@
 import random
-from EmployeeWageProblem.main_employee_wage_builder.ComputeWageInterface import ComputeWageInterface
+from EmployeeWageProblem.main_employee_wage_builder.compute_wage_interface import ComputeWageInterface
 from EmployeeWageProblem.main_employee_wage_builder.company import Company
 
 IS_FULL_TIME = 2
