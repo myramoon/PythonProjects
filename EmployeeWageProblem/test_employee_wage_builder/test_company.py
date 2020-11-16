@@ -1,4 +1,3 @@
-from EmployeeWageProblem.main_employee_wage_builder.company import Company
 from EmployeeWageProblem.main_employee_wage_builder.employee_wage_calculator import Employee_Wage_Calculator
 
 
