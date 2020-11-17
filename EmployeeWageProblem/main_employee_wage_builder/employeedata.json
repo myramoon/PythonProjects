@@ -1,0 +1,542 @@
+{
+
+  "employee_data": [
+
+    {
+      "company": "Dmart",
+
+      "day": 1,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company" : "Dmart",
+
+      "day": 2,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 3,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 4,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 5,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 6,
+
+      "status": "Leave"
+
+    },
+
+     
+    {
+      "company": "Dmart",
+
+      "day": 7,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 8,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 9,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 10,
+
+      "status": "Leave"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 11,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 12,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 13,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 14,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 15,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 16,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 17,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 18,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 19,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Dmart",
+
+      "day": 20,
+
+      "status": "Leave"
+
+    },
+
+
+    {
+      "company": "Reliance",
+
+      "day": 1,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 2,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 3,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 4,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 5,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 6,
+
+      "status": "Leave"
+
+    },
+
+     
+    {
+      "company": "Reliance",
+
+      "day": 7,
+
+      "status": "Leave"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 8,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 9,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 10,
+
+      "status": "Leave"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 11,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 12,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 13,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 14,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 15,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 16,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 17,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 18,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 19,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 20,
+
+      "status": "Leave"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 21,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 22,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 23,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Reliance",
+
+      "day": 24,
+
+      "status": "Leave"
+
+    },
+ 
+    {
+      "company": "Westside",
+
+      "day": 1,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 2,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 3,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 4,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 5,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 6,
+
+      "status": "Leave"
+
+    },
+
+     
+    {
+      "company": "Westside",
+
+      "day": 7,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 8,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 9,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 10,
+
+      "status": "Leave"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 11,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 12,
+
+      "status": "Part"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 13,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 14,
+
+      "status": "Full"
+
+    },
+
+    {
+      "company": "Westside",
+
+      "day": 15,
+
+      "status": "Full"
+
+    }
+
+  ]
+
+}
